@@ -1,0 +1,8 @@
+Name: Roberta Sinatra
+Affiliation: Professor, University of Copenhagen
+Publication Titles:
+- Science of science
+- Historical comparison of gender inequality in scientific careers across countries and disciplines
+- Quantifying the evolution of individual scientific impact
+- An analysis of visitors' behavior in the Louvre Museum: A study using Bluetooth data
+- Data-driven predictions in the science of science

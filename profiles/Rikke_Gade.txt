@@ -1,0 +1,8 @@
+Name: Rikke Gade
+Affiliation: Associate professor, Aalborg University
+Publication Titles:
+- Thermal cameras and applications: a survey
+- Computer vision for sports: Current applications and research topics
+- Detection of marine animals in a new underwater dataset with varying visibility
+- A context-aware loss function for action spotting in soccer videos
+- Pedestrian counting with occlusion handling using stereo thermal cameras

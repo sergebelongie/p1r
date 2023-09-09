@@ -1,0 +1,8 @@
+Name: Serge Belongie
+Affiliation: University of Copenhagen
+Publication Titles:
+- Microsoft coco: Common objects in context
+- Feature pyramid networks for object detection
+- Shape matching and object recognition using shape contexts
+- Arbitrary style transfer in real-time with adaptive instance normalization
+- The caltech-ucsd birds-200-2011 dataset

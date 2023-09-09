@@ -1,0 +1,8 @@
+Name: Peter Schneider-Kamp
+Affiliation: Professor of Computer Science, University of Southern Denmark
+Publication Titles:
+- AProVE 1.2: Automatic Termination Proofs in the Dependency Pair Framework
+- Mechanizing and improving dependency pairs
+- Automated Termination Proofs with AProVE
+- The dependency pair framework: Combining techniques for automated termination proofs
+- SAT solving for termination analysis with polynomial interpretations

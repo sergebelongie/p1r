@@ -1,0 +1,8 @@
+Name: Salif Axel Komi
+Affiliation: Postdoctoral Researcher, University of Copenhagen
+Publication Titles:
+- Targeted neurotechnology restores walking in humans with spinal cord injury
+- Activity-dependent spinal cord neuromodulation rapidly restores trunk and leg motor functions after complete paralysis
+- Neuroprosthetic baroreflex controls haemodynamics after spinal cord injury
+- The neurons that restore walking after paralysis
+- Design of RYSEN: an intrinsically safe and low-power three-dimensional Overground body weight support

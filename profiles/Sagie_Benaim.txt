@@ -1,0 +1,8 @@
+Name: Sagie Benaim
+Affiliation: Postdoc, University of Copenhagen
+Publication Titles:
+- One-sided unsupervised domain mapping
+- Speednet: Learning the speediness in videos
+- Text2mesh: Text-driven neural stylization for meshes
+- One-shot unsupervised cross domain translation
+- Permuted adain: Reducing the bias towards global statistics in image classification

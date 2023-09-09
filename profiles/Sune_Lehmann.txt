@@ -1,0 +1,8 @@
+Name: Sune Lehmann
+Affiliation: Professor, DTU Compute, Technical University of Denmark and Center for Social Data Science
+Publication Titles:
+- Link communities reveal multiscale complexity in networks
+- Understanding the demographics of Twitter users
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm
+- Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle
+- Measuring large-scale social networks with high resolution.

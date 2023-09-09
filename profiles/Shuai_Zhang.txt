@@ -1,0 +1,8 @@
+Name: Shuai Zhang
+Affiliation: Professor (promotion program), Aalborg University
+Publication Titles:
+- Mutual Coupling Reduction for UWB MIMO Antennas with a Wideband Neutralization Line
+- Ultrawideband MIMO/diversity antennas with a tree-like structure to enhance wideband isolation
+- A Review of Mutual Coupling in MIMO Systems
+- A Switchable 3-D-Coverage-Phased Array Antenna Package for 5G Mobile Terminals
+- Closely-Packed UWB MIMO/Diversity Antenna With Different Patterns and Polarizations for USB Dongle Applications

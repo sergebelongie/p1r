@@ -1,0 +1,8 @@
+Name: Sokol Kosta
+Affiliation: Associate Professor, Aalborg University
+Publication Titles:
+- ThinkAir: Dynamic resource allocation and parallel execution in cloud for mobile code offloading
+- To offload or not to offload? the bandwidth and energy costs of mobile cloud computing
+- Before and after gdpr: The changes in third party presence at public and private european websites
+- Small world in motion (SWIM): Modeling communities in ad-hoc mobile networking
+- Flopcoin: A cryptocurrency for computation offloading

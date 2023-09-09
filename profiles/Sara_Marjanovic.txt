@@ -1,0 +1,7 @@
+Name: Sara Marjanovic
+Affiliation: Data Scientist, University of Copenhagen
+Publication Titles:
+- Quantifying gender biases towards politicians on Reddit
+- Ridiculing the “tinfoil hats:” Citizen responses to COVID-19 misinformation in the Danish facemask debate on Twitter.”
+- Misinformation, social status and ridicule: A study of how Danes spread and react to Covid-19 misinformation on Twitter
+- Misinformation, social status og latterliggørelse: en undersøgelse af danskeres spredning af og reaktioner på Covid-19 misinformation på Twitter

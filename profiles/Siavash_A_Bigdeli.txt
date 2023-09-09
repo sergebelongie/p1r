@@ -1,0 +1,8 @@
+Name: Siavash A. Bigdeli
+Affiliation: Associate Professor, Technical University of Denmark
+Publication Titles:
+- Faceshop: Deep sketch-based face image editing
+- Deep mean-shift priors for image restoration
+- Image restoration using autoencoding priors
+- Hand-held 3D light field photography and applications
+- AIM 2020 challenge on image extreme inpainting

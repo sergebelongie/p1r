@@ -1,0 +1,8 @@
+Name: Pinar Tozun
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- PLP: page latch-free shared-everything OLTP
+- Hybrid transactional/analytical processing: A survey
+- OLTP on hardware islands
+- ATraPos: Adaptive transaction processing on hardware Islands
+- From A to E: analyzing TPC's OLTP benchmarks: the obsolete, the ubiquitous, the unexplored

@@ -1,0 +1,8 @@
+Name: Sarthak Yadav
+Affiliation: PhD Fellow at Pioneer Center for AI and AAU, Denmark
+Publication Titles:
+- imgaug
+- Learning discriminative features for speaker identification and verification.
+- Frequency and temporal convolutional attention for text-independent speaker recognition
+- Prediction of ubiquitination sites using UbiNets
+- GISE-51: A scalable isolated sound events dataset

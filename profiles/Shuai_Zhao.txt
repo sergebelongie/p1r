@@ -1,0 +1,8 @@
+Name: Shuai Zhao
+Affiliation: Assistant Professor, AAU Energy, Aalborg University
+Publication Titles:
+- An overview of artificial intelligence applications for power electronics
+- A Digital Twin based Estimation Method for Health Indicators of DC-DC Converters
+- Degradation Assessment and Precursor Identification for SiC MOSFETs Under High Temp Cycling
+- A Generalized Remaining Useful Life Prediction Method for Complex Systems Based on Composite Health Indicator
+- Health Assessment Method for Electronic Components Subject to Condition Monitoring and Hard Failure

@@ -1,0 +1,8 @@
+Name: Sanja Lazarova-Molnar
+Affiliation: Professor, Karlsruhe Institute of Technology & University of Southern Denmark
+Publication Titles:
+- SmartCityWare: A service-oriented middleware for cloud and fog enabled smart city services
+- Leveraging the capabilities of industry 4.0 for improving energy efficiency in smart factories
+- Simulation and modeling efforts to support decision making in healthcare supply chain management
+- Protein-protein interaction based on pairwise similarity
+- The Proxel-Based Method: Formalisation, Analysis and Applications

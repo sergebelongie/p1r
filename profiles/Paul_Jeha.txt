@@ -1,0 +1,4 @@
+Name: Paul Jeha
+Affiliation: Technical University of Denmark
+Publication Titles:
+- PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series

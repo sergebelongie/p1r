@@ -1,0 +1,8 @@
+Name: Sandro Sousa
+Affiliation: IT university of Copenhagen
+Publication Titles:
+- Diffusion segregation and the disproportionate incidence of COVID-19 in African American communities
+- Quantifying ethnic segregation in cities through random walks
+- Optimizing the mitigation of epidemic spreading through targeted adoption of contact tracing apps
+- Community detection in the hyperbolic space
+- First passage time analysis of spatial mutation patterns reveals sub-clonal evolutionary dynamics in colorectal cancer

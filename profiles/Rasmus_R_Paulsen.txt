@@ -1,0 +1,8 @@
+Name: Rasmus R. Paulsen
+Affiliation: Professor in Medical Image Analysis, DTU Compute, Technical University of Denmark
+Publication Titles:
+- Wind turbine surface damage detection by deep learning aided drone inspection analysis
+- Motion tracking for medical imaging: a nonvisible structured light tracking approach
+- Markov random field surface reconstruction
+- List-mode PET motion correction using markerless head tracking: proof-of-concept with scans of human subject
+- Shape modelling using markov random field restoration of point correspondences

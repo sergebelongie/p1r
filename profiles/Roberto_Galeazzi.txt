@@ -1,0 +1,8 @@
+Name: Roberto Galeazzi
+Affiliation: Technical University of Denmark
+Publication Titles:
+- Line-of-sight path following for dubins paths with adaptive sideslip compensation of drift forces
+- 2022 roadmap on neuromorphic computing and engineering
+- Nonlinear container ship model for the study of parametric roll resonance
+- Early detection of parametric roll resonance on container ships
+- Smart sensor based obstacle detection for high-speed unmanned surface vehicle

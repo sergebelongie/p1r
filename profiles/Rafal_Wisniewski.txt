@@ -1,0 +1,8 @@
+Name: Rafal Wisniewski
+Affiliation: Aalborg University, Department of Electronic Systems
+Publication Titles:
+- Fully magnetic attitude control for spacecraft subject to gravity gradient
+- Satellite attitude control using only electromagnetic actuation
+- Estimation of rotor effective wind speed: A comparison
+- Linear time-varying approach to satellite attitude control using only electromagnetic actuation
+- Converse barrier certificate theorems

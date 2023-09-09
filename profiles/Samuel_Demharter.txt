@@ -1,0 +1,8 @@
+Name: Samuel Demharter
+Affiliation: Genmab
+Publication Titles:
+- Joint analysis of heterogeneous single-cell RNA-seq dataset collections
+- Tuning cytokine receptor signaling by re-orienting dimer geometry with surrogate ligands
+- Tracing the origin of adult intestinal stem cells
+- Identification of epilepsy-associated neuronal subtypes and gene expression underlying epileptogenesis
+- Current status and future challenges in T-cell receptor/peptide/MHC molecular dynamics simulations

@@ -1,0 +1,8 @@
+Name: Raghavendra Selvan
+Affiliation: Assistant Professor (TT), University of Copenhagen
+Publication Titles:
+- Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models
+- Segmentation of roots in soil with U-Net
+- Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients
+- A joint 3D UNet-Graph Neural Network-based method for Airway Segmentation from chest CTs
+- Lung Segmentation from Chest X-rays using Variational Data Imputation

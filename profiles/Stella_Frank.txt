@@ -1,0 +1,8 @@
+Name: Stella Frank
+Affiliation: Pioneer Centre for AI / University of Copenhagen
+Publication Titles:
+- Multi30k: Multilingual english-german image descriptions
+- A shared task on multimodal machine translation and crosslingual image description
+- Findings of the second shared task on multimodal machine translation and multilingual image description
+- Findings of the third shared task on multimodal machine translation
+- Multilingual image description with neural sequence models

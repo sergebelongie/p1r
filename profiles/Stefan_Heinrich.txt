@@ -1,0 +1,8 @@
+Name: Stefan Heinrich
+Affiliation: Assistant Professor, IT University of Copenhagen
+Publication Titles:
+- Semantic Object Accuracy for Generative Text-to-Image Synthesis
+- Generating Multiple Objects at Spatially Distinct Locations
+- NICO—Neuro-inspired companion: A developmental humanoid robot platform for multimodal interaction
+- Improving domain-independent cloud-based speech recognition with domain-dependent phonetic post-processing
+- The impact of personalisation on human-robot interaction in learning scenarios

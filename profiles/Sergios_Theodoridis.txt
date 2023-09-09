@@ -1,0 +1,8 @@
+Name: Sergios Theodoridis
+Affiliation: National and Kapodistrian University of Athens, Greece and Aalborg University Denmark
+Publication Titles:
+- Pattern recognition.
+- Machine learning: a Bayesian and optimization perspective
+- Introduction to pattern recognition: a matlab approach
+- Backpropagation learning for multilayer feed-forward neural networks using the conjugate gradient method
+- A geometric approach to support vector machine (SVM) classification

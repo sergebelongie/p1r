@@ -1,0 +1,8 @@
+Name: Silvia Tolu
+Affiliation: Associate Professor
+Publication Titles:
+- 2022 roadmap on neuromorphic computing and engineering
+- Adaptive cerebellar spiking model embedded in the control loop: Context switching and robustness against noise
+- Oscillation-driven spike-timing dependent plasticity allows multiple overlapping pattern recognition in inhibitory interneuron networks
+- Bio-inspired adaptive feedback error learning architecture for motor control
+- Adaptive and predictive control of a simulated robot arm

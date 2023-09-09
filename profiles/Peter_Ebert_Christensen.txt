@@ -1,0 +1,8 @@
+Name: Peter Ebert Christensen
+Affiliation: University of Copenhagen
+Publication Titles:
+- Synthesize, execute and debug: Learning to repair for neural program synthesis
+- Short term blood glucose prediction based on continuous glucose monitoring data
+- Volumetric Disentanglement for 3D Scene Manipulation
+- Searching for Structure in Unfalsifiable Claims
+- Assessing Neural Network Robustness via Adversarial Pivotal Tuning

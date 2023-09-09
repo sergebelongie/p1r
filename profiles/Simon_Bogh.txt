@@ -1,0 +1,8 @@
+Name: Simon Bøgh
+Affiliation: Aalborg University
+Publication Titles:
+- Robot skills for manufacturing: From concept to industrial deployment
+- Artificial intelligence and internet of things in small and medium-sized enterprises: A survey
+- Skill-based instruction of collaborative robots in industrial settings
+- Autonomous industrial mobile manipulation (AIMM): past, present and future
+- Does your robot have skills?

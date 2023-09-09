@@ -1,0 +1,8 @@
+Name: Roman Jurowetzki
+Affiliation: Associate Professor, Aalborg University
+Publication Titles:
+- Unveiling scientific communities about sustainability and innovation. A bibliometric journey around sustainable terms
+- Combining innovation systems and global value chains for development: Towards a research agenda
+- Local competence building and international venture capital in low-income countries: Exploring foreign high-tech investments in Kenya’s Silicon Savanna
+- A text-embedding-based approach to measuring patent-to-patent technological similarity
+- The Privatization of AI Research (-ers): Causes and Potential Consequences--From university-industry interaction to public research brain-drain?

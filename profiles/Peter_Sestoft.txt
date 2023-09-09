@@ -1,0 +1,8 @@
+Name: Peter Sestoft
+Affiliation: Professor, IT University of Copenhagen
+Publication Titles:
+- Partial evaluation and automatic program generation
+- Mix: a self-applicable partial evaluator for experiments in compiler generation
+- An experiment in partial evaluation: the generation of a compiler generator
+- Deriving a lazy abstract machine
+- Replacing function parameters by global variables

@@ -1,0 +1,8 @@
+Name: Rob van der Goot
+Affiliation: Postdoc IT university of Copenhagen
+Publication Titles:
+- Fair is better than sensational: Man is to doctor as woman is to doctor
+- The meaning factory: Formal semantics for recognizing textual entailment and determining semantic similarity
+- Bleaching text: Abstract features for cross-lingual gender prediction
+- Massive choice, ample tasks (MaChAmp): A toolkit for multi-task learning in NLP
+- Biomedical event extraction as sequence labeling

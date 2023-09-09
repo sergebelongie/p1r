@@ -1,0 +1,8 @@
+Name: Søren Knudsen
+Affiliation: Assistant Professor, Digital Design Department, IT University of Copenhagen
+Publication Titles:
+- Information visualization and proxemics: Design opportunities and empirical findings
+- Data changes everything: Challenges and opportunities in data visualization design handoff
+- An exploratory study of how abundant display space may support data analysis
+- Analyzing qualitative data
+- Analyzing qualitative data
