@@ -1,0 +1,8 @@
+Name: Arthur Zimek
+Affiliation: University of Southern Denmark
+Publication Titles:
+- Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering
+- Density‐based clustering
+- Angle-based outlier detection in high-dimensional data
+- A survey on unsupervised outlier detection in high‐dimensional numerical data
+- On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study

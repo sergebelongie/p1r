@@ -1,0 +1,8 @@
+Name: Anders Christensen
+Affiliation: SDU Biorobotics, MMMI, University of Southern Denmark (SDU)
+Publication Titles:
+- Swarmanoid: a novel concept for the study of heterogeneous robotic swarms
+- From fireflies to fault-tolerant swarms of robots
+- Evolution of collective behaviors for a real swarm of aquatic surface robots
+- Evolution of swarm robotics systems with novelty search
+- Fault detection in autonomous robots based on fault injection and learning

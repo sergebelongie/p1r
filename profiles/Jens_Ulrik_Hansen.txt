@@ -1,0 +1,8 @@
+Name: Jens Ulrik Hansen
+Affiliation: Associate Professor, Roskilde University
+Publication Titles:
+- A logic for diffusion in social networks
+- On the rationality of pluralistic ignorance
+- Logical models of informational cascades
+- Reflecting on social influence in networks
+- A two-tiered formalization of social influence

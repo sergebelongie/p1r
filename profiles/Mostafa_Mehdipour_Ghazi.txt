@@ -1,0 +1,8 @@
+Name: Mostafa Mehdipour Ghazi
+Affiliation: University of Copenhagen
+Publication Titles:
+- Plant identification using deep neural networks via optimization of transfer learning parameters
+- A Comprehensive Analysis of Deep Learning Based Representation for Face Recognition
+- Training recurrent neural networks robust to incomplete data: Application to Alzheimer’s disease progression modeling
+- DEVELOPING AND VALIDATING COVID-19 ADVERSE OUTCOME RISK PREDICTION MODELS FROM A BI-NATIONAL EUROPEAN COHORT OF 5594 PATIENTS
+- The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up

@@ -1,0 +1,5 @@
+Name: Elizabeth Baker
+Affiliation: University of Copenhagen
+Publication Titles:
+- Statistics of finite degree covers of torus knot complements
+- A function space perspective on stochastic shape evolution

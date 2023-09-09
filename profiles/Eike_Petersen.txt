@@ -1,0 +1,8 @@
+Name: Eike Petersen
+Affiliation: DTU Compute,Technical University of Denmark
+Publication Titles:
+- A comprehensive mathematical model of motor unit pool organization, surface electromyography, and force generation
+- Removing Cardiac Artifacts From Single-Channel Respiratory Electromyograms
+- Feature robustness and sex differences in medical imaging: A case study in MRI-based Alzheimer’s disease detection
+- A template subtraction method for the removal of cardiogenic oscillations on esophageal pressure signals
+- Surface EMG-based quantification of inspiratory effort: a quantitative comparison with Pes

@@ -1,0 +1,8 @@
+Name: Carsten Schürmann
+Affiliation: Computer Science, IT University of Copenhagen
+Publication Titles:
+- System description: Twelf—a meta-logical framework for deductive systems
+- Automating the meta theory of deductive systems
+- Primitive recursion for higher-order abstract syntax
+- Primitive recursion for higher-order abstract syntax
+- Multiparty session types as coherence proofs

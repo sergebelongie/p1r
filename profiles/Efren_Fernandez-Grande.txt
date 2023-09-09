@@ -1,0 +1,8 @@
+Name: Efren Fernandez-Grande
+Affiliation: Associate Professor, Technical University of Denmark
+Publication Titles:
+- A sparse equivalent source method for near-field acoustic holography
+- Sound field separation with sound pressure and particle velocity measurements
+- Beamforming with a circular microphone array for localization of environmental noise sources
+- Reconstruction of the sound field in a room using compressive sensing
+- Sound field reconstruction using a spherical microphone array

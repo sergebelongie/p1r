@@ -1,0 +1,8 @@
+Name: Jacopo Mauro
+Affiliation: University of Southern Denmark
+Publication Titles:
+- SUNNY: a lazy portfolio approach for constraint solving
+- Aeolus: A component model for the cloud
+- Self-reconfiguring microservices
+- Dynamic choreographies: Theory and implementation
+- A multicore tool for constraint solving

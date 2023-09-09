@@ -1,0 +1,8 @@
+Name: Nora Hollenstein
+Affiliation: University of Copenhagen
+Publication Titles:
+- ZuCo, a simultaneous EEG and eye-tracking resource for natural sentence reading
+- Sequence classification with human attention
+- CogniVal: A Framework for Cognitive Word Embedding Evaluation
+- ZuCo 2.0: A dataset of physiological recordings during natural reading and annotation
+- ETH-DS3Lab at SemEval-2018 Task 7: Effectively combining recurrent and convolutional neural networks for relation classification and extraction

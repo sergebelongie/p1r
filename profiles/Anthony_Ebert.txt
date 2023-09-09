@@ -1,0 +1,8 @@
+Name: Anthony Ebert
+Affiliation: National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT)
+Publication Titles:
+- Computationally efficient simulation of queues: the R package queuecomputer
+- Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic
+- Surface modification and Pt functionalisation of multi-walled carbon nanotubes in methanol expanded with supercritical CO2
+- Likelihood-free parameter estimation for dynamic queueing networks: Case study of passenger flow in an international airport terminal
+- Synthesis of vertically aligned carbon nanotube arrays on polyhedral Fe/Al2O3 catalysts

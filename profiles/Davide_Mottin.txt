@@ -1,0 +1,8 @@
+Name: Davide Mottin
+Affiliation: Associate Professor, Department of Computer Science, Aarhus University
+Publication Titles:
+- VERSE: Versatile Graph Embeddings from Similarity Measures
+- NetLSD: Hearing the Shape of a Graph
+- Exemplar Queries: Give me an Example of What You Need
+- Exemplar Queries: A New Way of Searching
+- A Probabilistic Optimization Framework for the Empty-Answer Problem

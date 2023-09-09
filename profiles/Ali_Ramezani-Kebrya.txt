@@ -1,0 +1,8 @@
+Name: Ali Ramezani-Kebrya
+Affiliation: Associate Professor (with tenure) in CS at the University of Oslo
+Publication Titles:
+- Joint power optimization for device-to-device communication in cellular networks with interference control
+- Likelihood-based modulation classification for multiple-antenna receiver
+- Adaptive Gradient Quantization for Data-Parallel SGD
+- NUQSGD: Provably communication-efficient data-parallel SGD via nonuniform quantization
+- On the generalization of stochastic gradient descent with momentum

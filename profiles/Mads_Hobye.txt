@@ -1,0 +1,8 @@
+Name: Mads Hobye
+Affiliation: Computer Science, Roskilde University
+Publication Titles:
+- Making futures: Marginal notes on innovation, design, and democracy
+- Touching a stranger: Designing for engaging experience in embodied interaction
+- Towards programmatic design research
+- Designing for Homo Explorens: open social play in performative frames
+- The bizarre bazaar: FabLabs as hybrid hubs

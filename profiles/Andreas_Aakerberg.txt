@@ -1,0 +1,8 @@
+Name: Andreas Aakerberg
+Affiliation: PhD. Fellow, Milestone Research Programme at Aalborg University
+Publication Titles:
+- Real‐world super‐resolution of face‐images from surveillance cameras
+- Depth value pre-processing for accurate transfer learning based RGB-D object recognition
+- Improving a deep learning based RGB-D object recognition model by ensemble learning
+- Semantic segmentation guided real-world super-resolution
+- RELLISUR: a real low-light image super-resolution dataset

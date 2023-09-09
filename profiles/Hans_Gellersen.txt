@@ -1,0 +1,8 @@
+Name: Hans Gellersen
+Affiliation: Professor of Interactive Systems, Lancaster University and Aarhus University
+Publication Titles:
+- There is more to context than location
+- Eye movement analysis for activity recognition using electrooculography
+- Smart-its friends: A technique for users to easily establish connections between smart artefacts
+- Multi-sensor context-awareness in mobile devices and smart artifacts
+- The drift table: designing for ludic engagement

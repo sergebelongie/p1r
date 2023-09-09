@@ -1,0 +1,8 @@
+Name: Daniel Michelsanti
+Affiliation: Data Scientist (Medical Image Analysis) @ Novo Nordisk
+Publication Titles:
+- Conditional generative adversarial networks for speech enhancement and noise-robust speaker verification
+- An overview of deep-learning-based audio-visual speech enhancement and separation
+- Fast Fingerprint Classification with Deep Neural Networks
+- Deep-learning-based audio-visual speech enhancement in presence of Lombard effect
+- Vocoder-Based Speech Synthesis from Silent Videos

@@ -1,0 +1,8 @@
+Name: Malte Pedersen
+Affiliation: PhD Fellow, Aalborg University
+Publication Titles:
+- Detection of marine animals in a new underwater dataset with varying visibility
+- 3d-zef: A 3d zebrafish tracking benchmark dataset
+- Camera calibration for underwater 3D reconstruction based on ray tracing using Snell's law
+- Water level estimation in sewer pipes using deep convolutional neural networks
+- Re-identification of zebrafish using metric learning

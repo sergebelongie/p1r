@@ -1,0 +1,8 @@
+Name: Aske Mottelson
+Affiliation: Assistant Professor, IT University of Copenhagen
+Publication Titles:
+- Virtual reality studies outside the laboratory
+- Your place and mine: Designing a shared VR experience for remotely located users
+- Investigating the effect of teaching as a generative learning strategy when learning through desktop and immersive VR: A media and methods experiment
+- Investigating representation of text and audio in educational VR using learning outcomes and EEG
+- Resized grasping in vr: Estimating thresholds for object discrimination

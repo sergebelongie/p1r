@@ -1,0 +1,8 @@
+Name: Anders Nymark Christensen
+Affiliation: Associate Professor - Technical University of Denmark
+Publication Titles:
+- Wind turbine surface damage detection by deep learning aided drone inspection analysis
+- Exercise training favors increased insulin-stimulated glucose uptake in skeletal muscle in contrast to adipose tissue: a randomized study using FDG PET imaging
+- How does 6 months of active bike commuting or leisure-time exercise affect insulin sensitivity, cardiorespiratory fitness and intra-abdominal fat? A randomised controlled trial …
+- Deep metric learning for otitis media classification
+- A 16-week aerobic exercise intervention does not affect hippocampal volume and cortical thickness in mild to moderate Alzheimer’s disease

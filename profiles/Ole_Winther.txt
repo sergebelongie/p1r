@@ -1,0 +1,8 @@
+Name: Ole Winther
+Affiliation: Biology, Univ of Copenhagen, Genomic Medicine, Rigshospitalet and Technical University of Denmark
+Publication Titles:
+- SignalP 5.0 improves signal peptide predictions using deep neural networks
+- Autoencoding beyond pixels using a learned similarity metric
+- Ladder variational autoencoders
+- DeepLoc: prediction of protein subcellular localization using deep learning
+- JASPAR, the open access database of transcription factor-binding profiles: new content and tools in the 2008 update

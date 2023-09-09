@@ -1,0 +1,8 @@
+Name: Arpit Bhatia
+Affiliation: University of Copenhagen
+Publication Titles:
+- An Analysis of Ludo Board Game Play on Smartphones
+- Soma-noti: Delivering Notifications Through Under-clothing Wearables
+- AICA: Artificial Intelligence Conversation Assistant
+- Exploring the Design Space of Badge Based Input
+- A Touch of the Future: The TOUCHLESS Hackathon 2022

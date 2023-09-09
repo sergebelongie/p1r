@@ -1,0 +1,8 @@
+Name: Nikolaos Nakis
+Affiliation: PhD Student @ Technical University of Denmark
+Publication Titles:
+- Hm-ldm: A hybrid-membership latent distance model
+- Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model
+- Piecewise-Velocity Model for Learning Continuous-time Dynamic Node Representations
+- A Hierarchical Block Distance Model for Ultra Low-Dimensional Graph Representations
+- A Hybrid Membership Latent Distance Model for Unsigned and Signed Integer Weighted Networks

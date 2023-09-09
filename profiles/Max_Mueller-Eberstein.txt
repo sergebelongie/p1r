@@ -1,0 +1,8 @@
+Name: Max Müller-Eberstein
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- Genre as Weak Supervision for Cross-lingual Dependency Parsing
+- Translating visual art into music
+- How Universal is Genre in Universal Dependencies?
+- Probing for Labeled Dependency Trees
+- Spectral Probing

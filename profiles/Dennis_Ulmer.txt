@@ -1,0 +1,8 @@
+Name: Dennis Ulmer
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- Trust Issues: Uncertainty Estimation Does Not Enable Reliable OOD Detection On Medical Tabular Data
+- Know Your Limits: Uncertainty Estimation with ReLU Classifiers Fails at Reliable OOD Detection
+- State-of-the-art generalisation research in NLP: a taxonomy and review
+- Prior and Posterior Networks: A Survey on Evidential Deep Learning Methods For Uncertainty Estimation
+- deep-significance: Easy and Meaningful Signifcance Testing in the Age of Neural Networks

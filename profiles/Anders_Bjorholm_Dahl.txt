@@ -1,0 +1,8 @@
+Name: Anders Bjorholm Dahl
+Affiliation: Professor, Image Analysis, Technical University of Denmark
+Publication Titles:
+- Assessment of algorithms for mitosis detection in breast cancer histopathology images
+- Large Scale Multi-view Stereopsis Evaluation
+- From detection of individual metastases to classification of lymph node status at the patient level: the camelyon17 challenge
+- Large-scale data for multiple-view stereopsis
+- Interesting interest points: A comparative study of interest point performance on a unique data set

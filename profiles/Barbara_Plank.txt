@@ -1,0 +1,8 @@
+Name: Barbara Plank
+Affiliation: Professor, LMU Munich and ITU Copenhagen
+Publication Titles:
+- Multilingual part-of-speech tagging with bidirectional long short-term memory models and auxiliary loss
+- Automatic description generation from images: A survey of models, datasets, and evaluation measures
+- Universal Dependencies 2.2
+- Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering
+- Personality Traits on Twitter-or-How to Get 1,500 Personality Tests in a Week.

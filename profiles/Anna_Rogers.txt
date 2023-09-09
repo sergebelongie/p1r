@@ -1,0 +1,8 @@
+Name: Anna Rogers
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- A primer in BERTology: What we know about how BERT works
+- Revealing the Dark Secrets of BERT
+- BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
+- Analogy-based detection of morphological and semantic relations with word embeddings: what works and what doesn't.
+- Word Embeddings, Analogies, and Machine Learning: Beyond King - Man+ Woman= Queen

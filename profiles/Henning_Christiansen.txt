@@ -1,0 +1,8 @@
+Name: Henning Christiansen
+Affiliation: Professor of Computer Science
+Publication Titles:
+- A survey of adaptable grammars
+- HYPROLOG: A new logic programming language with assumptions and abduction
+- CHR grammars
+- An experimental CLP platform for integrity constraints and abduction
+- On simplification of database integrity constraints

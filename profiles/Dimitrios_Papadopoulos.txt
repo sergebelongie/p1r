@@ -1,0 +1,8 @@
+Name: Dimitrios Papadopoulos
+Affiliation: Associate Professor, Technical University of Denmark
+Publication Titles:
+- Extreme clicking for efficient object annotation
+- Training object class detectors from eye tracking data
+- We don't need no bounding-boxes: Training object class detectors using only human verification
+- How Hard Can It Be? Estimating the Difficulty of Visual Search in an Image
+- Training object class detectors with click supervision

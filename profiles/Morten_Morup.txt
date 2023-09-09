@@ -1,0 +1,8 @@
+Name: Morten Mørup
+Affiliation: Section for Cognitive Systems, Technical University of Denmark
+Publication Titles:
+- Scalable tensor factorizations for incomplete data
+- Scalable tensor factorizations for incomplete data
+- Parallel factor analysis as an exploratory tool for wavelet transformed event-related EEG
+- Applications of tensor (multiway array) factorizations and decompositions in data mining
+- Archetypal analysis for machine learning and data mining

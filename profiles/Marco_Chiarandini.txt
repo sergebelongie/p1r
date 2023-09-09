@@ -1,0 +1,8 @@
+Name: Marco Chiarandini
+Affiliation: University of Southern Denmark
+Publication Titles:
+- A comparison of the performance of different metaheuristics on the timetabling problem
+- Pareto local optimum sets in the biobjective traveling salesman problem: An experimental study
+- An effective hybrid algorithm for university course timetabling
+- Experimental methods for the analysis of optimization algorithms
+- Hybrid metaheuristics for the vehicle routing problem with stochastic demands

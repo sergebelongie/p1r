@@ -1,0 +1,8 @@
+Name: Panagiotis Karras
+Affiliation: Associate Professor, Aarhus University
+Publication Titles:
+- Hexastore: sextuple indexing for semantic web data management
+- Fast data anonymization with low information loss
+- Verse: Versatile graph embeddings from similarity measures
+- Netlsd: hearing the shape of a graph
+- H2RDF+: High-performance distributed joins over large-scale RDF graphs

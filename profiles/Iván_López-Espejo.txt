@@ -1,0 +1,8 @@
+Name: Iván López-Espejo
+Affiliation: Aalborg University
+Publication Titles:
+- Deep spoken keyword spotting: An overview
+- End-to-End Deep Residual Learning with Dilated Convolutions for Myocardial Infarction Detection and Localization
+- Exploring filterbank learning for keyword spotting
+- Dual-channel DNN-based speech enhancement for smartphones
+- Dual-channel spectral weighting for robust speech recognition in mobile devices

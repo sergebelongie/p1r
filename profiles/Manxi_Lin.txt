@@ -1,0 +1,8 @@
+Name: Manxi Lin
+Affiliation: Ph.D. student, Technical University of Denmark
+Publication Titles:
+- Intelligent fault diagnosis of rotating machinery based on continuous wavelet transform-local binary convolutional neural network
+- DiffConv: Analyzing irregular point clouds with an irregular view
+- Intelligent fault diagnosis of rolling bearings based on clustering algorithm of fast search and find of density peaks
+- DTU-Net: Learning Topological Similarity for Curvilinear Structure Segmentation
+- An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery

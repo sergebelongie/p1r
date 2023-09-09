@@ -1,0 +1,8 @@
+Name: Michael Kastoryano
+Affiliation: IT University of Copenhagen and AWS
+Publication Titles:
+- The ATLAS simulation infrastructure
+- Dissipative preparation of entanglement in optical cavities
+- Locality of temperature
+- Dissipative quantum church-turing theorem
+- The  χ2-divergence and mixing times of quantum Markov processes

@@ -1,0 +1,8 @@
+Name: Mads Nielsen
+Affiliation: Professor of Computer Science, University of Copenhagen
+Publication Titles:
+- Deep feature learning for knee cartilage segmentation using a triplanar convolutional neural network
+- Unsupervised deep learning applied to breast density segmentation and mammographic risk scoring
+- Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge
+- Gaussian scale-space theory
+- Gaussian scale-space theory

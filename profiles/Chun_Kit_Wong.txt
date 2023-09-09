@@ -1,0 +1,8 @@
+Name: Chun Kit Wong
+Affiliation: Technical University of Denmark
+Publication Titles:
+- Evaluation of Multimodal Algorithms for the Segmentation of Multiparametric MRI Prostate Images
+- Magnetic field therapy enhances muscle mitochondrial bioenergetics and attenuates systemic ceramide levels following ACL reconstruction: Southeast Asian randomized-controlled …
+- Training CNN Classifiers for Semantic Segmentation using Partially Annotated Images: with Application on Human Thigh and Calf MRI
+- An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
+- Research Article Evaluation of Multimodal Algorithms for the Segmentation of Multiparametric MRI Prostate Images

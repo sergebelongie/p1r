@@ -1,0 +1,8 @@
+Name: Morten Arngren
+Affiliation: Lead Data Scientist, Wunderman
+Publication Titles:
+- Unmixing of hyperspectral images using Bayesian non-negative matrix factorization with volume prior
+- Analysis of pregerminated barley using hyperspectral image analysis
+- Bayesian nonnegative matrix factorization with volume prior for unmixing of hyperspectral images
+- Deep belief nets for topic modeling
+- Kernel based subspace projection of near infrared hyperspectral images of maize kernels

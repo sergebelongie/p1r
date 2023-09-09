@@ -1,0 +1,8 @@
+Name: Isabelle Augenstein
+Affiliation: Full Professor, Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Stance Detection with Bidirectional Conditional Encoding
+- SemEval 2017 Task 10: ScienceIE-Extracting Keyphrases and Relations from Scientific Publications
+- emoji2vec: Learning Emoji Representations from their Description
+- A simple but tough-to-beat baseline for the Fake News Challenge stance detection task
+- Latent multi-task architecture learning

@@ -1,0 +1,8 @@
+Name: Nico Lang
+Affiliation: University of Copenhagen, DIKU, Pioneer Centre for AI
+Publication Titles:
+- From Google Maps to a fine-grained catalog of street trees
+- Country-wide high-resolution vegetation height mapping with Sentinel-2
+- Global canopy height regression and uncertainty estimation from GEDI LIDAR waveforms with deep ensembles
+- A high-resolution canopy height model of the Earth
+- Geocoding of trees from street addresses and street-level images

@@ -1,0 +1,8 @@
+Name: Mikkel Schmidt
+Affiliation: Technical University of Denmark
+Publication Titles:
+- Single-channel speech separation using sparse non-negative matrix factorization.
+- Bayesian non-negative matrix factorization
+- Nonnegative matrix factor 2-D deconvolution for blind single channel source separation
+- Wind noise reduction using non-negative sparse coding
+- Deep learning spectroscopy: Neural networks for molecular excitation spectra

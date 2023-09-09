@@ -1,0 +1,8 @@
+Name: Daniel Hershcovich
+Affiliation: University of Copenhagen
+Publication Titles:
+- Context dependent claim detection
+- A benchmark dataset for automatic detection of claims and evidence in the context of controversial topics
+- An autonomous debating system
+- A Transition-Based Directed Acyclic Graph Parser for UCCA
+- MRP 2019: Cross-framework meaning representation parsing

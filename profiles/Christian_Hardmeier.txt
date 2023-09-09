@@ -1,0 +1,8 @@
+Name: Christian Hardmeier
+Affiliation: Associate Professor, IT University of Copenhagen
+Publication Titles:
+- Getting gender right in neural machine translation
+- Modelling pronominal anaphora in statistical machine translation
+- Discourse in statistical machine translation
+- Character-based joint segmentation and POS tagging for Chinese using bidirectional RNN-CRF
+- Document-wide decoding for phrase-based statistical machine translation

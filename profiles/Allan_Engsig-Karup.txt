@@ -1,0 +1,8 @@
+Name: Allan Engsig-Karup
+Affiliation: Associate Professor of Scientific Computing, Technical University of Denmark
+Publication Titles:
+- An efficient flexible-order model for 3D nonlinear water waves
+- Spectral tensor-train decomposition
+- Spectral/hp element methods: Recent developments, applications, and perspectives
+- Nodal DG-FEM solution of high-order Boussinesq-type equations
+- A massively parallel GPU‐accelerated model for analysis of fully nonlinear free surface waves

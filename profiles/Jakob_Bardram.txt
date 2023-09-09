@@ -1,0 +1,8 @@
+Name: Jakob Bardram
+Affiliation: Professor in computer science, Technical University of Denmark
+Publication Titles:
+- The Java Context Awareness Framework (JCAF)–a service infrastructure and programming framework for context-aware applications
+- Applications of context-aware computing in hospital work: examples and design principles
+- Plans as situated action: An activity theory approach to workflow systems
+- Mobility work: The spatial dimension of collaboration at a hospital
+- Designing mobile health technology for bipolar disorder: a field trial of the monarca system

@@ -1,0 +1,8 @@
+Name: Bulat Ibragimov
+Affiliation: Associate Professor at University of Copenhagen
+Publication Titles:
+- Segmentation of organs‐at‐risks in head and neck CT images using convolutional neural networks
+- A benchmark for comparison of dental radiography analysis algorithms
+- Fully automated quantitative cephalometry using convolutional neural networks
+- Deep neural network ensemble for pneumonia localization from a large-scale chest x-ray database
+- Evaluation and comparison of anatomical landmark detection methods for cephalometric x-ray images: a grand challenge

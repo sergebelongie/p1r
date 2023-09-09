@@ -1,0 +1,8 @@
+Name: Francesco Da Ros
+Affiliation: Technical University of Denmark
+Publication Titles:
+- On-chip two-mode division multiplexing using tapered directional coupler-based mode multiplexer and demultiplexer
+- Single-source chip-based frequency comb enabling extreme parallel data transmission
+- Constellation shaping for WDM systems using 256QAM/1024QAM with probabilistic optimization
+- 0.4 THz photonic-wireless link with 106 Gb/s single channel bitrate
+- Dual-polarization nonlinear Fourier transform-based optical communication system

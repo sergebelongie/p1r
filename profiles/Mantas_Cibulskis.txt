@@ -1,0 +1,7 @@
+Name: Mantas Cibulskis
+Affiliation: Unknown affiliation
+Publication Titles:
+- Mission impossible spaces: Using challenge-based distractors to reduce noticeability of self-overlapping virtual architecture
+- Body warping versus change blindness remapping: A comparison of two approaches to repurposing haptic proxies for virtual reality
+- Impossible Open Spaces: Exploring the Effects of Occlusion on the Noticeability of Self-Overlapping Virtual Environments
+- The Virtual Heart Illusion

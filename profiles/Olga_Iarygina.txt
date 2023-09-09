@@ -1,0 +1,5 @@
+Name: Olga Iarygina
+Affiliation: University of Copenhagen
+Publication Titles:
+- Learning analytics of CS0 students programming errors: The case of data science minor
+- Investigating the Influence of Users Personality on the Ambiguous Emoji Perception

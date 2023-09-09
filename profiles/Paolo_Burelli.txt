@@ -1,0 +1,8 @@
+Name: Paolo Burelli
+Affiliation: Associate Professor
+Publication Titles:
+- Haptic feedback for enhancing realism of walking simulations
+- Virtual camera composition with particle swarm optimization
+- Dynamic Artificial Fields for Autonomous Camera Control
+- Towards adaptive virtual camera control in computer games
+- Global search for occlusion minimisation in virtual camera control

@@ -1,0 +1,8 @@
+Name: Miguel González-Duque
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- Finding game levels with the right difficulty in a few trials through intelligent trial-and-error
+- Towards a framework for human-ai interaction patterns in co-creative gan applications
+- Pulling back information geometry
+- Variational neural cellular automata
+- Learning a Behavioral Repertoire from Demonstrations

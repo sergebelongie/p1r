@@ -1,0 +1,8 @@
+Name: Niels van Berkel
+Affiliation: Aalborg University
+Publication Titles:
+- The Experience Sampling Method on Mobile Devices
+- Predictors of well-being and productivity among software professionals during the COVID-19 pandemic–a longitudinal study
+- Gamification of Mobile Experience Sampling Improves Data Quality and Quantity
+- A Systematic Assessment of Smartphone Usage Gaps
+- Effect of Experience Sampling Schedules on Response Rate and Recall Accuracy of Objective Self-Reports

@@ -1,0 +1,8 @@
+Name: Chen LI
+Affiliation: Department of Materials and Production, Aalborg University
+Publication Titles:
+- Multi-agent Manufacturing Execution System (MES): Concept, architecture & ML algorithm for a smart factory case
+- An extended usernametoken-based approach for rest-style web service security authentication
+- Design choices for next-generation IIoT-connected MES/MOM: An empirical study on smart factories
+- Applying semantic web and big data techniques to construct a balance model referring to stakeholders of tourism intangible cultural heritage
+- Breeze Graph Grammar: A Graph Grammar Approach to Modelling the Software Architecture for Distributed Software Systems

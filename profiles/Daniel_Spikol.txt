@@ -1,0 +1,8 @@
+Name: Daniel Spikol
+Affiliation: Associate Professor of Computer Science, University of Copenhagen
+Publication Titles:
+- Mobile learning: Small devices, big issues
+- Supervised machine learning in multimodal learning analytics for estimating success in project‐based learning
+- Anytime, anywhere learning supported by smart phones: Experiences and results from the MUSIS project
+- Integrating mobile, web and sensory technologies to support inquiry-based science learning
+- Bridging outdoors and indoors educational activities in schools with the support of mobile and positioning technologies

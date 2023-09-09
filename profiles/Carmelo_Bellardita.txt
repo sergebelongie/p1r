@@ -1,0 +1,8 @@
+Name: Carmelo Bellardita
+Affiliation: Associate professor, Copenhagen University
+Publication Titles:
+- Midbrain circuits that set locomotor speed and gait selection
+- Descending command neurons in the brainstem that halt locomotion
+- Phenotypic characterization of speed-associated gait changes in mice reveals modular organization of locomotor networks
+- Adult neural precursors isolated from post mortem brain yield mostly neurons: an erythropoietin-dependent process
+- Spatiotemporal correlation of spinal network dynamics underlying spasms in chronic spinalized mice

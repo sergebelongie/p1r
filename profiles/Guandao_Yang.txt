@@ -1,0 +1,8 @@
+Name: Guandao Yang
+Affiliation: Stanford
+Publication Titles:
+- Pointflow: 3d point cloud generation with continuous normalizing flows
+- Learning gradient fields for shape generation
+- Learning to evaluate image captioning
+- SWALP: Stochastic weight averaging in low precision training
+- Learning single-view 3d reconstruction with limited pose supervision

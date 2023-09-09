@@ -1,0 +1,8 @@
+Name: Berian James
+Affiliation: Independent
+Publication Titles:
+- The WiggleZ Dark Energy Survey: the transition to large-scale cosmic homogeneity
+- The XMM-Newton Wide Field Survey in the COSMOS Field: Redshift Evolution of AGN Bias and Subdominant Role of Mergers in Triggering Moderate-luminosity AGNs at Redshifts up to 2.2
+- Active learning to overcome sample selection bias: application to photometric variable star classification
+- Clustering between high-mass X-ray binaries and OB associations in the Milky Way
+- The angular correlations of galaxies in the COSMOS field

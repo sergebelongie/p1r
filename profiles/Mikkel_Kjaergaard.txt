@@ -1,0 +1,8 @@
+Name: Mikkel Kjærgaard
+Affiliation: Professor in Software Engineering, University of Southern Denmark
+Publication Titles:
+- Smart devices are different: Assessing and mitigatingmobile sensing heterogeneities for activity recognition
+- Entracked: energy-efficient robust position tracking for mobile devices
+- Brick: Towards a unified metadata schema for buildings
+- A taxonomy for radio location fingerprinting
+- Brick: Metadata schema for portable smart building applications

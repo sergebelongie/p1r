@@ -1,0 +1,8 @@
+Name: Arnav Arora
+Affiliation: University of Copenhagen
+Publication Titles:
+- A survey on stance detection for mis-and disinformation identification
+- Cross-domain label-adaptive stance detection
+- Few-shot cross-lingual stance detection with sentiment-based pre-training
+- Probing Pre-trained Language Models for Cross-Cultural Differences in Values
+- Multi-hop fact checking of political claims

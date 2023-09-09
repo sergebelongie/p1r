@@ -1,0 +1,8 @@
+Name: Guido Makransky
+Affiliation: Professor of Psychology, University of Copnhagen
+Publication Titles:
+- Adding immersive virtual reality to a science lab simulation causes more presence but less learning
+- Critical Values for Yen’s Q3: Identification of Local Dependence in the Rasch Model Using Residual Correlations
+- A structural equation modeling investigation of the emotional value of immersive virtual reality in education
+- Investigating the effect of pre-training when learning through immersive virtual reality and video: A media and methods experiment
+- Motivational and cognitive benefits of training in immersive virtual reality based on multiple assessments

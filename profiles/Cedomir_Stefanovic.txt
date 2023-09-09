@@ -1,0 +1,8 @@
+Name: Cedomir Stefanovic
+Affiliation: Professor in Communications and Networking, Aalborg University
+Publication Titles:
+- Massive machine-type communications in 5G: Physical and MAC-layer solutions
+- Wireless access for ultra-reliable low-latency communication: Principles and building blocks
+- Sparse signal processing for grant-free massive connectivity: A future paradigm for random access protocols in the Internet of Things
+- Wireless access in ultra-reliable low-latency communication (URLLC)
+- Towards massive connectivity support for scalable mMTC communications in 5G networks

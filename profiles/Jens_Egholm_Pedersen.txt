@@ -1,0 +1,8 @@
+Name: Jens Egholm Pedersen
+Affiliation: KTH
+Publication Titles:
+- Norse-A deep learning library for spiking neural networks
+- Misinformation on Twitter during the Danish national election: A case study
+- Understanding the neurocognitive organization as strategies rather than functions: Implications for neurological research
+- AEStream: Accelerated event-based processing with coroutines
+- A High-Throughput Low-Latency Interface Board for SpiNNaker-in-the-loop Real-Time Systems

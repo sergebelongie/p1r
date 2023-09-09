@@ -1,0 +1,8 @@
+Name: Erik Dam
+Affiliation: University of Copenhagen, Cerebriu
+Publication Titles:
+- Deep feature learning for knee cartilage segmentation using a triplanar convolutional neural network
+- The liver tumor segmentation benchmark (lits)
+- Quaternions, interpolation and animation
+- Front-end vision and multi-scale image analysis: multi-scale computer vision theory and applications, written in mathematica
+- Should subchondral bone turnover be targeted when treating osteoarthritis?

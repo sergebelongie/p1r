@@ -1,0 +1,8 @@
+Name: Alexandros IOSIFIDIS
+Affiliation: Professor, Aarhus University
+Publication Titles:
+- Forecasting stock prices from the limit order book using convolutional neural networks
+- Deep learning and computer vision will transform entomology
+- Temporal attention-augmented bilinear network for financial time-series data analysis
+- Using deep learning to detect price change indications in financial markets
+- On the kernel extreme learning machine classifier

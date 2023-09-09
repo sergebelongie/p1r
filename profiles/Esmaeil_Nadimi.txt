@@ -1,0 +1,8 @@
+Name: Esmaeil Nadimi
+Affiliation: Prof. Maersk Mc-Kinney Moller Inst, University of Southern Denmark
+Publication Titles:
+- Site‐specific weed control technologies
+- Monitoring and classifying animal behavior using ZigBee-based mobile ad hoc wireless sensor networks and artificial neural networks
+- Monitoring and classifying animal behavior using ZigBee-based mobile ad hoc wireless sensor networks and artificial neural networks
+- ZigBee-based wireless sensor networks for monitoring animal presence and pasture time in a strip of new grass
+- ZigBee-based wireless sensor networks for classifying the behaviour of a herd of animals using classification trees

@@ -1,0 +1,8 @@
+Name: Anna Sapienza
+Affiliation: KU - University of Copenhagen
+Publication Titles:
+- Early warnings of cyber threats in online discussions
+- Discover: Mining online chatter for emerging cyber threats
+- Does streaming esports affect players’ behavior and performance?
+- Individual performance in team-based online games
+- Non-negative tensor factorization for human behavioral pattern mining in online games

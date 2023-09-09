@@ -1,0 +1,8 @@
+Name: Christian M. Dahl
+Affiliation: University of Southern Denmark
+Publication Titles:
+- The effects of birth inputs on birthweight: evidence from quantile estimation on panel data
+- Wage dispersion and decentralization of wage bargaining
+- Testing for neglected nonlinearity in regression models based on the theory of random fields
+- ICT and productivity growth in the 1990s: panel data evidence on Europe
+- Headlights on tobacco road to low birthweight outcomes: Evidence from a battery of quantile regression estimators and a heterogeneous panel

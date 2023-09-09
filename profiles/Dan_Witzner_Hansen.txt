@@ -1,0 +1,8 @@
+Name: Dan Witzner Hansen
+Affiliation: Professor, IT University of Copenhagen
+Publication Titles:
+- In the eye of the beholder: A survey of models for eyes and gaze
+- Eye tracking in the wild
+- Evaluation of a low-cost open-source gaze tracker
+- Gaze Interaction and Applications of Eye Tracking: Advances in Assistive Technologies: Advances in Assistive Technologies
+- Low-cost gaze interaction: ready to deliver the promises

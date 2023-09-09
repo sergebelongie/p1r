@@ -1,0 +1,8 @@
+Name: Boris Düdder
+Affiliation: Associate Professor, University of Copenhagen
+Publication Titles:
+- Z-Inspection®: A Process to Assess Trustworthy AI
+- Timber tracking: reducing complexity of due diligence by using blockchain technology
+- Bounded combinatory logic
+- Combinatory logic synthesizer
+- Staged composition synthesis

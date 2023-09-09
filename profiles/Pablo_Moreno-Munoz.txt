@@ -1,0 +1,8 @@
+Name: Pablo Moreno-Munoz
+Affiliation: Postdoc, Technical University of Denmark (DTU)
+Publication Titles:
+- Heterogeneous multi-output Gaussian process prediction
+- Combining continuous smartphone native sensors data capture and unsupervised data mining techniques for behavioral changes detection: a case series of the evidence-based …
+- Modular gaussian processes for transfer learning
+- Change-point detection in hierarchical circadian models
+- Continual multi-task Gaussian processes

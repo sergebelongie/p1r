@@ -1,0 +1,8 @@
+Name: Mohammad Sadegh Talebi
+Affiliation: Assistant Professor of Computer Science, University of Copenhagen
+Publication Titles:
+- Combinatorial bandits revisited
+- Stochastic online shortest path routing: The value of feedback
+- Secure consensus averaging in sensor networks using random offsets
+- Variance-aware regret bounds for undiscounted reinforcement learning in MDPs
+- Adaptive consensus averaging for information fusion over sensor networks

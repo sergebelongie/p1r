@@ -1,0 +1,8 @@
+Name: Christina Lioma
+Affiliation: Professor in Computer Science,  University of Copenhagen
+Publication Titles:
+- A hierarchical recurrent encoder-decoder for generative context-aware query suggestion
+- Graph-based term weighting for information retrieval
+- Part of speech based term weighting for information retrieval
+- MultiFC: A real-world multi-domain dataset for evidence-based fact checking of claims
+- Research directions in terrier: a search engine for advanced retrieval on the web

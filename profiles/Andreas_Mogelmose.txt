@@ -1,0 +1,8 @@
+Name: Andreas Møgelmose
+Affiliation: Assistant professor, Aalborg University
+Publication Titles:
+- Vision-based traffic sign detection and analysis for intelligent driver assistance systems: Perspectives and survey
+- Vision for looking at traffic lights: Issues, survey, and perspectives
+- Part-based pedestrian detection and feature-based tracking for driver assistance: real-time, robust algorithms, and evaluation
+- Detection of US traffic signs
+- Traffic light detection: A learning algorithm and evaluations on challenging dataset

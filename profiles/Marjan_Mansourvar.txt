@@ -1,0 +1,8 @@
+Name: Marjan Mansourvar
+Affiliation: Technical University of Denmark - DTU
+Publication Titles:
+- The applicability of Greulich and Pyle atlas to assess skeletal age for four ethnic groups
+- Automated bone age assessment: motivation, taxonomies, and challenges
+- Predicting dropouts from an electronic health platform for lifestyle interventions: analysis of methods and predictors
+- Web portal as a knowledge management system in the universities
+- AUTOMATED WEB BASED SYSTEM FOR BONE AGE ASSESSMENT USING HISTORAM TECHNIQUE

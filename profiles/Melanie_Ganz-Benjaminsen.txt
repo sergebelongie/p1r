@@ -1,0 +1,8 @@
+Name: Melanie Ganz-Benjaminsen
+Affiliation: Department of Computer Science, University of Copenhagen
+Publication Titles:
+- A high-resolution in vivo atlas of the human brain's serotonin system
+- Mapping neurotransmitter systems to the structural and functional organization of the human neocortex
+- Automatic segmentation of polyps in colonoscopic narrow-band imaging data
+- Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images
+- Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test–retest reproducibility and head-to-head comparison with the antagonist [18F] altanserin

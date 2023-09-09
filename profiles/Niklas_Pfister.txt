@@ -1,0 +1,8 @@
+Name: Niklas Pfister
+Affiliation: Associate Professor, University of Copenhagen
+Publication Titles:
+- Kernel-based tests for joint independence
+- Invariant causal prediction for sequential data
+- A causal framework for distribution generalization
+- Learning stable and predictive structures in kinetic systems
+- Stabilizing variable selection and regression

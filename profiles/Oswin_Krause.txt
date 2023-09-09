@@ -1,0 +1,8 @@
+Name: Oswin Krause
+Affiliation: Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients
+- CMA-ES with optimal covariance update and storage complexity
+- Predicting electrical storms by remote monitoring of implantable cardioverter-defibrillator patients using machine learning
+- Is segmentation uncertainty useful?
+- A more efficient rank-one covariance matrix update for evolution strategies

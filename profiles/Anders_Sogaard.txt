@@ -1,0 +1,8 @@
+Name: Anders Søgaard
+Affiliation: Full Professor in NLP and Machine Learning, University of Copenhagen
+Publication Titles:
+- Using millions of emoji occurrences to pretrain any-domain models for detecting emotion, sentiment, and sarcasm
+- A survey of cross-lingual word embedding models
+- Deep multi-task learning with low level tasks supervised at lower layers
+- Multilingual part-of-speech tagging with bidirectional long short-term memory models and auxiliary loss
+- Latent multi-task architecture learning

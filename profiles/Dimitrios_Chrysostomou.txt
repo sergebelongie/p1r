@@ -1,0 +1,8 @@
+Name: Dimitrios Chrysostomou
+Affiliation: Associate Professor, Aalborg University
+Publication Titles:
+- Fault diagnosis of photovoltaic modules through image processing and Canny edge detection on field thermographic measurements
+- Skill-based instruction of collaborative robots in industrial settings
+- A skill-based robot co-worker for industrial maintenance tasks
+- Human–robot collaboration in industrial environments: A literature review on non-destructive disassembly
+- Generalization of orientation trajectories and force-torque profiles for robotic assembly

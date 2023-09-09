@@ -1,0 +1,8 @@
+Name: Cumhur Erkut
+Affiliation: Associate Professor, Aalborg University Copenhagen
+Publication Titles:
+- Discrete-time modelling of musical instruments
+- Virtual reality musical instruments: State of the art, design principles, and future directions
+- Digital waveguides versus finite difference structures: Equivalence and mixed modeling
+- Embracing first-person perspectives in soma-based design
+- Methods for modeling realistic playing in acoustic guitar synthesis

@@ -1,0 +1,8 @@
+Name: Ivan Nikolov
+Affiliation: Assistant Professor, Aalborg University
+Publication Titles:
+- Benchmarking close-range structure from motion 3D reconstruction software under varying capturing conditions
+- Circular hough transform and local circularity measure for weight estimation of a graph-cut based wood stack measurement
+- Sewer Defect Classification using Synthetic Point Clouds.
+- Seasons in drift: A long-term thermal imaging dataset for studying concept drift
+- LiDAR-based 2D localization and mapping system using elliptical distance correction models for UAV wind turbine blade inspection

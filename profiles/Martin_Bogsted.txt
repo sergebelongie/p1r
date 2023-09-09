@@ -1,0 +1,8 @@
+Name: Martin Bøgsted
+Affiliation: Professor in Clinical Bioinformatics and Statistics, Aalborg University
+Publication Titles:
+- Routine bone marrow biopsy has little or no therapeutic consequence for positron emission tomography/computed tomography–staged treatment-naive patients with Hodgkin lymphoma
+- Neutrophil extracellular traps in ulcerative colitis: a proteome analysis of intestinal biopsies
+- Diffuse large B-cell lymphoma classification system that associates normal B-cell subset phenotypes with prognosis
+- Long noncoding RNA expression during human B-cell development
+- Routine imaging for diffuse large B-cell lymphoma in first complete remission does not improve post-treatment survival: a Danish-Swedish population-based study

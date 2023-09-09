@@ -1,0 +1,8 @@
+Name: Hua Lu
+Affiliation: Professor of Computer Science, Roskilde University, Denmark
+Publication Titles:
+- Spacetwist: Managing the trade-offs among location privacy, query performance, and query accuracy in mobile services
+- Pad: privacy-area aware, dummy-based location privacy in mobile services
+- Skyline queries against mobile lightweight devices in MANETs
+- Graph model based indoor tracking
+- Continuous skyline queries for moving objects

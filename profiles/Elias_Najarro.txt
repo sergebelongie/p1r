@@ -1,0 +1,8 @@
+Name: Elias Najarro
+Affiliation: PhD fellow, IT University of Copenhagen
+Publication Titles:
+- Meta-learning through hebbian plasticity in random networks
+- Growing 3d artefacts and functional machines with neural cellular automata
+- EvoCraft: A New Challenge for Open-Endedness
+- MarioGPT: Open-Ended Text2Level Generation through Large Language Models
+- Goal-Guided Neural Cellular Automata: Learning to Control Self-Organising Systems

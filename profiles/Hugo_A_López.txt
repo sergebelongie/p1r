@@ -1,0 +1,8 @@
+Name: Hugo A López
+Affiliation: Associate Professor, Technical University of Denmark
+Publication Titles:
+- Protocol-based verification of message-passing parallel programs
+- The Process Highlighter: From Texts to Declarative Processes and Back
+- Enforcing Availability in Failure-Aware Communicating Systems
+- Towards a Unified Framework for Declarative Structured Communications
+- Exploring the modeling of declarative processes using a hybrid approach

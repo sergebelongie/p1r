@@ -1,0 +1,8 @@
+Name: Desmond Elliott
+Affiliation: Assistant Professor, University of Copenhagen
+Publication Titles:
+- Multi30K: Multilingual English-German image descriptions
+- Automatic description generation from images: A survey of models, datasets, and evaluation measures
+- Image Description using Visual Dependency Representations
+- A shared task on multimodal machine translation and crosslingual image description
+- How2: a large-scale dataset for multimodal language understanding

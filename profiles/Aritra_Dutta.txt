@@ -1,0 +1,8 @@
+Name: Aritra Dutta
+Affiliation: Assistant Professor, University of Central Florida
+Publication Titles:
+- On the Discrepancy between the Theoretical Analysis and Practical Implementations of Compressed Communication for Distributed Deep Learning
+- Compressed communication for distributed deep learning: Survey and quantitative evaluation
+- GRACE: A compressed communication framework for distributed machine learning
+- Deepreduce: A sparse-tensor communication framework for federated deep learning
+- Rethinking gradient sparsification as total error minimization

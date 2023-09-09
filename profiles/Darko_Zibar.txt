@@ -1,0 +1,8 @@
+Name: Darko Zibar
+Affiliation: Professor, Group leader Machine Learning in Photonic Systems,Technical University of Denmark
+Publication Titles:
+- An overview on application of machine learning techniques in optical networks
+- 100 Gbit/s hybrid optical fiber-wireless link in the W-band (75–110 GHz)
+- Machine learning techniques in optical communication
+- Single-source chip-based frequency comb enabling extreme parallel data transmission
+- Machine learning techniques for optical performance monitoring from directly detected PDM-QAM signals

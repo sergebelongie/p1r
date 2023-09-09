@@ -1,0 +1,8 @@
+Name: Finn Nielsen
+Affiliation: Associate Professor, DTU Compute, Technical University of Denmark
+Publication Titles:
+- A new ANEW: Evaluation of a word list for sentiment analysis in microblogs
+- On clustering fMRI time series
+- Good friends, bad news-affect and virality in twitter
+- Persistence of web references in scientific research
+- Strategies of legitimacy through social media: The networked strategy
