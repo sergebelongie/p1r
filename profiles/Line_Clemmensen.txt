@@ -1,0 +1,8 @@
+Name: Line Clemmensen
+Affiliation: Technical Universtiy of Denmark
+Publication Titles:
+- Sparse discriminant analysis
+- Spasm: A matlab toolbox for sparse statistical modeling
+- Adverse effects on sexual development in rat offspring after low dose exposure to a mixture of endocrine disrupting pesticides
+- Effects of network resolution on topological properties of human neocortex
+- Forest floor visualizations of random forests

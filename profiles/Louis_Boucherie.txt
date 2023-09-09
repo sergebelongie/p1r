@@ -1,0 +1,6 @@
+Name: Louis Boucherie
+Affiliation: PhD Student at Technical University of Denmark
+Publication Titles:
+- Characterizing Polarization in Social Networks using the Signed Relational Latent Distance Model
+- Macroprudential Stress Test of the Euro Area Banking System Amid the Coronavirus (COVID-19) Pandemic
+- Looking at the evolution of macroprudential policy stance: A growth-at-risk experiment with a semi-structural model

@@ -1,0 +1,8 @@
+Name: Louise Barkhuus
+Affiliation: Professor, The IT University of Copenhagen and Rutgers University
+Publication Titles:
+- Location-Based Services for Mobile Telephony: a Study of Users' Privacy Concerns.
+- Is context-aware computing taking control away from the user? Three levels of interactivity examined
+- Interweaving mobile games with everyday life
+- Shakra: tracking and sharing daily activity levels with unaugmented mobile phones
+- From awareness to repartee: sharing location within social groups

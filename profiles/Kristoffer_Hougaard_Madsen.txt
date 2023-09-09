@@ -1,0 +1,8 @@
+Name: Kristoffer Hougaard Madsen
+Affiliation: Danish Research for Magnetic Resonance, Copenhagen University Hospital Hvidovre
+Publication Titles:
+- Toward discovery science of human brain function
+- Non-white noise in fMRI: does modelling have an impact?
+- SimNIBS 2.1: a comprehensive pipeline for individualized electric field modelling for transcranial brain stimulation
+- Automatic skull segmentation from MR images for realistic volume conductor models of the head: Assessment of the state-of-the-art
+- Deep convolutional neural networks for interpretable analysis of EEG sleep stage scoring

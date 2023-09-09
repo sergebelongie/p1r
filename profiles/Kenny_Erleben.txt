@@ -1,0 +1,8 @@
+Name: Kenny Erleben
+Affiliation: Professor, Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Physics-based Animation
+- Interactive simulation of rigid body dynamics in computer graphics
+- Velocity-based shock propagation for multibody dynamics animation
+- Stable, robust, and versatile multibody dynamics animation
+- Multiphase flow of immiscible fluids on unstructured moving meshes

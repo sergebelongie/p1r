@@ -1,0 +1,8 @@
+Name: Kristjan Eldjarn
+Affiliation: Caltech
+Publication Titles:
+- Parental influence on human germline de novo mutations in 1,548 trios from Iceland
+- Modular, efficient and constant-memory single-cell RNA-seq preprocessing
+- Graphtyper enables population-scale genotyping using pangenome graphs
+- Whole genome characterization of sequence diversity of 15,220 Icelanders
+- Multiple transmissions of de novo mutations in families

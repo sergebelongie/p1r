@@ -1,0 +1,8 @@
+Name: Katja Hose
+Affiliation: Professor, TU Wien, Aalborg University
+Publication Titles:
+- AMIE: association rule mining under incomplete evidence in ontological knowledge bases
+- Fast rule mining in ontological knowledge bases with AMIE ++
+- Fedx: Optimization techniques for federated query processing on linked data
+- Data summaries for on-demand queries over linked data
+- A survey of skyline processing in highly distributed environments

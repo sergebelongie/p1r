@@ -1,0 +1,8 @@
+Name: Ken Pfeuffer
+Affiliation: Assistant Professor, Aarhus University
+Publication Titles:
+- Pursuit calibration: Making gaze calibration less tedious and more flexible
+- Gaze+ pinch interaction in virtual reality
+- Behavioural biometrics in VR: Identifying people from body motion and relations in virtual reality
+- Gaze-touch: combining gaze with multi-touch for interaction on the same surface
+- Look together: using gaze for assisting co-located collaborative search
