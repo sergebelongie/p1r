@@ -1,0 +1,8 @@
+Name: Timothy Jenkins
+Affiliation: Head of Data Science and Assistant Professor at DTU Bioengineering
+Publication Titles:
+- Bee updated: current knowledge on bee venom and bee envenoming therapy
+- Infections by human gastrointestinal helminths are associated with changes in faecal microbiota diversity and composition
+- This gut ain’t big enough for both of us. Or is it? Helminth–microbiota interactions in veterinary species
+- Schistosoma mansoni infection is associated with quantitative and qualitative modifications of the mammalian intestinal microbiota
+- Changes in duodenal tissue-associated microbiota following hookworm infection and consecutive gluten challenges in humans with coeliac disease

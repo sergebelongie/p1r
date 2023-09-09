@@ -1,0 +1,8 @@
+Name: Thomas Hamelryck
+Affiliation: Dpt. of computer science / Dpt. of biology, University of Copenhagen
+Publication Titles:
+- Biopython: freely available Python tools for computational molecular biology and bioinformatics
+- Legume lectin structure
+- PDB file parser and structure class implemented in Python
+- A generative, probabilistic model of local protein structure
+- An amino acid has two sides: a new 2D measure provides a different view of solvent exposure

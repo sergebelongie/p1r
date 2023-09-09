@@ -1,0 +1,8 @@
+Name: Wei Fan
+Affiliation: Aalborg University
+Publication Titles:
+- A Step Toward 5G in 2020: Low-cost OTA performance evaluation of massive MIMO base stations.
+- Emulating spatial characteristics of MIMO channels for OTA testing
+- Measured wideband characteristics of indoor channels at centimetric and millimetric bands
+- Over-the-air radiated testing of millimeter-wave beam-steerable devices in a cost-effective measurement setup
+- On radiated performance evaluation of massive MIMO devices in multiprobe anechoic chamber OTA setups

@@ -1,0 +1,8 @@
+Name: Thomas Dyhre Nielsen
+Affiliation: Aalborg University
+Publication Titles:
+- Bayesian networks and decision graphs
+- Inference in hybrid Bayesian networks
+- Classification using hierarchical naive Bayes models
+- Welldefined decision scenarios
+- A parallel algorithm for Bayesian network structure learning from large data sets

@@ -1,0 +1,8 @@
+Name: Vedrana Dahl
+Affiliation: Associate professor at DTU Compute
+Publication Titles:
+- Axon morphology is modulated by the local environment and impacts the noninvasive investigation of its structure–function relationship
+- Quantifying fibre reorientation during axial compression of a composite through time-lapse X-ray imaging and individual fibre tracking
+- Quantitatively measured anatomic location and volume of optic disc drusen: an enhanced depth imaging optical coherence tomography study
+- Statistical validation of individual fibre segmentation from tomograms and microscopy
+- Dictionary based image segmentation

@@ -1,0 +1,8 @@
+Name: Ulrik Schultz
+Affiliation: University of Southern Denmark
+Publication Titles:
+- A survey of open-source UAV flight controllers and flight simulators
+- Automatic program specialization for Java
+- Java bytecode compression for low-end embedded systems
+- Towards automatic specialization of Java programs
+- Lambda-dropping: Transforming recursive equations into programs with block structure

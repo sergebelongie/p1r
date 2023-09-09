@@ -1,0 +1,8 @@
+Name: Tor-Salve Dalsgaard
+Affiliation: University of Copenhagen
+Publication Titles:
+- How to evaluate object selection and manipulation in vr? guidelines from 20 years of studies
+- Body layars: A toolkit for body-based augmented reality
+- A user-derived mapping for mid-air haptic experiences
+- Modeling Pointing for 3D Target Selection in VR
+- A Touch of the Future: The TOUCHLESS Hackathon 2022

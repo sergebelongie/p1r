@@ -1,0 +1,8 @@
+Name: Teresa Hirzle
+Affiliation: Assistant Professor, University of Copenhagen
+Publication Titles:
+- A design space for gaze interaction on head-mounted displays
+- Rethinking redirected walking: On the use of curvature gains beyond perceptual limitations and revisiting bending gains
+- A critical assessment of the use of ssq as a measure of general discomfort in vr head-mounted displays
+- Vrspinning: Exploring the design space of a 1d rotation platform to increase the perception of self-motion in vr
+- Watchvr: Exploring the usage of a smartwatch for interaction in mobile virtual reality

@@ -1,0 +1,8 @@
+Name: Yevgeny Seldin
+Affiliation: Professor, Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Enhanced electronic program guides
+- One practical algorithm for both stochastic and adversarial bandits
+- PAC-Bayesian inequalities for martingales
+- An Optimal Algorithm for Stochastic and Adversarial Bandits
+- Online learning in Markov decision processes with adversarially chosen transition probability distributions

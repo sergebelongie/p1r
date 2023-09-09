@@ -1,0 +1,8 @@
+Name: Tommy Sonne Alstrøm
+Affiliation: Technical University of Denmark
+Publication Titles:
+- Development and validation of a colorimetric sensor array for fish spoilage monitoring
+- Surface-enhanced Raman spectroscopy based quantitative bioassay on aptamer-functionalized nanopillars using large-area Raman mapping
+- Process optimization of ultrasonic spray coating of polymer films
+- From concept to in vivo testing: Microcontainers for oral drug delivery
+- Magnetic flux lines in complex geometry type-II superconductors studied by the time dependent Ginzburg-Landau equation

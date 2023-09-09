@@ -1,0 +1,8 @@
+Name: yijie zhang
+Affiliation: University of Copenhagen
+Publication Titles:
+- A utility-based analysis of equilibria in multi-objective normal-form games
+- Opponent Modelling for Reinforcement Learning in Multi-Objective Normal Form Games.
+- Opponent learning awareness and modelling in multi-objective normal form games
+- Deep coherent exploration for continuous control
+- Opponent modelling using policy reconstruction for multi-objective normal form games

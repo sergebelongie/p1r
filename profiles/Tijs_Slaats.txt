@@ -1,0 +1,8 @@
+Name: Tijs Slaats
+Affiliation: Associate Professor at Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Blockchains for business process management-challenges and opportunities
+- Declarative modeling–an academic dream or the future for BPM?
+- Nested dynamic condition response graphs
+- Exformatics declarative case management workflows as DCR graphs
+- The automated discovery of hybrid processes

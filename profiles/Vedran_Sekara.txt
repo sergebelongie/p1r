@@ -1,0 +1,8 @@
+Name: Vedran Sekara
+Affiliation: Assistant Professor at the IT University of Copenhagen
+Publication Titles:
+- Measuring large-scale social networks with high resolution
+- Fundamental structures of dynamic social networks
+- Evidence for a conserved quantity in human mobility
+- The chaperone effect in scientific publishing
+- The strength of friendship ties in proximity sensor data

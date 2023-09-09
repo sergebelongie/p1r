@@ -1,0 +1,8 @@
+Name: Vésteinn Snæbjarnarson
+Affiliation: Pioneer Centre for AI / University of Copenhagen and Miðeind ehf
+Publication Titles:
+- Expression of lec-1, a mycobiont gene encoding a galectin-like protein in the lichen Peltigera membranacea
+- A Warm Start and a Clean Crawled Corpus--A Recipe for Good Language Models
+- Miðeind’s WMT 2021 Submission
+- Help Yourself from the Buffet: National Language Technology Infrastructure Initiative on CLARIN-IS
+- Experimenting with different machine translation models in medium-resource settings

@@ -1,0 +1,8 @@
+Name: Zheng-Hua Tan
+Affiliation: Professor of Machine Learning and Speech Processing, Aalborg University
+Publication Titles:
+- Permutation invariant training of deep models for speaker-independent multi-talker speech separation
+- Multitalker speech separation with utterance-level permutation invariant training of deep recurrent neural networks
+- Conditional generative adversarial networks for speech enhancement and noise-robust speaker verification
+- Speech intelligibility potential of general and specialized deep neural network based speech enhancement systems
+- An overview of deep-learning-based audio-visual speech enhancement and separation

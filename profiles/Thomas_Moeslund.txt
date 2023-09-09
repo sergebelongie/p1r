@@ -1,0 +1,8 @@
+Name: Thomas Moeslund
+Affiliation: Professor, Aalborg University
+Publication Titles:
+- A survey of advances in vision-based human motion capture and analysis
+- A survey of computer vision-based human motion capture
+- Vision-based traffic sign detection and analysis for intelligent driver assistance systems: Perspectives and survey
+- Super-resolution: a comprehensive survey
+- Thermal cameras and applications: a survey

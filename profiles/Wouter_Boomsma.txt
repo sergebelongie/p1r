@@ -1,0 +1,8 @@
+Name: Wouter Boomsma
+Affiliation: Professor, Department of Computer Science, University of Copenhagen
+Publication Titles:
+- Ancient biomolecules from deep ice cores reveal a forested southern Greenland
+- 3d steerable cnns: Learning rotationally equivariant features in volumetric data
+- Statistical assignment of DNA sequences using Bayesian phylogenetics
+- A generative, probabilistic model of local protein structure
+- Combining experiments and simulations using the maximum entropy principle

@@ -1,0 +1,8 @@
+Name: Thomas Hildebrandt
+Affiliation: Professor, Computer Science Departement University of Copenhagen
+Publication Titles:
+- Declarative event-based workflow as distributed dynamic condition response graphs
+- Bigraphical models of context-aware systems
+- Nested dynamic condition response graphs
+- A model checker for bigraphs
+- On purpose and by necessity: compliance under the GDPR
