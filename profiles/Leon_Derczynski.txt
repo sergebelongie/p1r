@@ -1,0 +1,8 @@
+Name: Leon Derczynski
+Affiliation: ITU Copenhagen & University of Washington
+Publication Titles:
+- SemEval-2013 Task 1: TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations
+- Analysis of Named Entity Recognition and Linking for Tweets
+- SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020)
+- Twitter Part-of-Speech Tagging for All: Overcoming Sparse and Noisy Data
+- SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours

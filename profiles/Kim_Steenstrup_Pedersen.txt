@@ -1,0 +1,8 @@
+Name: Kim Steenstrup Pedersen
+Affiliation: Department of computer science, University of Copenhagen
+Publication Titles:
+- The nonlinear statistics of high-contrast patches in natural images
+- Interesting interest points–a survey of interest point performance on a unique data set
+- Active learning with support vector machines
+- Big universe, big data: Machine learning and image analysis for astronomy
+- Unscented Kalman filtering on Riemannian manifolds

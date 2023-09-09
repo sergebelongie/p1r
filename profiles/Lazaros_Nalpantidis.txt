@@ -1,0 +1,8 @@
+Name: Lazaros Nalpantidis
+Affiliation: Professor, DTU - Technical University of Denmark
+Publication Titles:
+- Dual arm manipulation—A survey
+- Survey of model-based reinforcement learning: Applications on robotics
+- Review of stereo vision algorithms: from software to hardware
+- Robot skills for manufacturing: From concept to industrial deployment
+- Stereo vision for robotic applications in the presence of non-ideal lighting conditions

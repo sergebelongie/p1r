@@ -1,0 +1,8 @@
+Name: Line Reinhardt
+Affiliation: Associate Professor Department of People and Technology Roskilde University
+Publication Titles:
+- A branch and cut algorithm for the container shipping network design problem
+- Multi-objective and multi-constrained non-additive shortest path problems
+- Synchronized dial-a-ride transportation of disabled passengers at airports
+- Optimization of hospital ward resources with patient relocation using Markov chain modeling
+- The liner shipping berth scheduling problem with transit times

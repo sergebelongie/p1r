@@ -1,0 +1,8 @@
+Name: Louise Pape-Haugaard
+Affiliation: Associate professor, Department of Health Science and Technology, Medical Informatics, Aalborg
+Publication Titles:
+- A future-proof architecture for telemedicine using loose-coupled modules and HL7 FHIR
+- Methods and measures used to evaluate patient-operated mobile health interventions: scoping literature review
+- Models used in clinical decision support systems supporting healthcare professionals treating chronic wounds: systematic literature review
+- Probing community nurses' professional basis: a situational case study in diabetic foot ulcer treatment
+- Performances of a solution to semi-automatically fill eCRF with data from the electronic health record: protocol for a prospective individual participant data meta-analysis

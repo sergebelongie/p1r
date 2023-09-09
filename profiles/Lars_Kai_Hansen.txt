@@ -1,0 +1,8 @@
+Name: Lars Kai Hansen
+Affiliation: Professor, Cognitive Systems, DTU Compute, Technical University of Denmark
+Publication Titles:
+- Neural network ensembles
+- Neural Networks for Modelling and Control of Dynamic Systems: A Practitioner's Handbook
+- Explainable AI: interpreting, explaining and visualizing deep learning
+- On clustering fMRI time series
+- Good friends, bad news. Affect and virality in Twitter

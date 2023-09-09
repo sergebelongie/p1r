@@ -1,0 +1,8 @@
+Name: Kyveli Kompatsiari
+Affiliation: Postdoc, Sinelab, DTU Compute
+Publication Titles:
+- On the role of eye contact in gaze cueing
+- It’s in the eyes: The engaging role of eye contact in HRI
+- Examining joint attention with the use of humanoid robots-A new approach to study fundamental mechanisms of social cognition
+- The importance of mutual gaze in human-robot interaction
+- Magnetic resonance dispersion imaging for localization of angiogenesis and cancer growth

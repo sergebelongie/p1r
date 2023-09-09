@@ -1,0 +1,8 @@
+Name: Luca Maria Aiello
+Affiliation: IT University of Copenhagen
+Publication Titles:
+- Sensing trending topics in Twitter
+- Friendship prediction and homophily in social media
+- The shortest path to happiness: Recommending beautiful, quiet, and happy routes in the city
+- Mapping the NFT revolution: market trends, trade networks, and visual features
+- Anticipating cryptocurrency prices using machine learning
