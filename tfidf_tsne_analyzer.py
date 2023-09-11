@@ -20,6 +20,7 @@ if response.status_code == 200:
     
     for file_name in txt_files:
         file_response = requests.get(base_url + file_name)
+        print(f"Processing {file_name}...")
         
         if file_response.status_code == 200:
             content = file_response.text
